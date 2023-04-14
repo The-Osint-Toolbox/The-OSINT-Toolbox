@@ -2,7 +2,7 @@
 <p><img src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png"></p>
 
 
-This is work in progress, you will discover links to useful, OSINT, Privacy & OPSEC resources, tradecraft, tools, techniques & tactics. Please free to explore in the meantiime. 
+This is work in progress, you will discover links to useful, OSINT, Privacy & OPSEC resources, tradecraft, tools, techniques & tactics. Please feel free to explore in the meantiime. 
 
 The nature of OSINT and to some extent Privacy, resources come and go, and occasionally  some links maybe broken. Feel free to DM me on Twitter if you find any broken links.
 
