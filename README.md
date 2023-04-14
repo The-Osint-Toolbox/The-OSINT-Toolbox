@@ -2,11 +2,13 @@
 <p><img src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png"></p>
 
 
-This is work in progress but eventually you will discover links to useful, OSINT, Privacy & OPSEC resources, tools, techniques & tactics. Please free to explore in the meantiime. 
-The nature of OSINT and to some extend Privacy resources come and go, and occasionally  some links maybe broken. Feel free to DM me Twitter if you find any broken links.
+This is work in progress but eventually you will discover links to useful, OSINT, Privacy & OPSEC resources, tradecraft, tools, techniques & tactics. Please free to explore in the meantiime. 
 
-The links to other websites, blogs, resources & tools etc, contained within this website do not represent any kind of recommendation or endorsement and I have absolutely no commercial links or affiliation to them.
+The nature of OSINT and to some extent Privacy, resources come and go, and occasionally  some links maybe broken. Feel free to DM me on Twitter if you find any broken links.
 
+The links to other websites, blogs, resources & tools etc, contained within. do not represent any kind of recommendation or endorsement and I have absolutely no commercial links or affiliation to them.
+
+I encourage you to understnad any resources or tools you use, as I provide links and not tutorials, albeit you will find some vidoes from other 3rd parties. Remember your own OPSEC too.
 <!--
 **cqcore/cqcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
