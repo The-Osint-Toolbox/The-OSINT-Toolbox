@@ -1,5 +1,7 @@
 ### Welcome to cqcore.
-<p><img src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png"></p>
+<p align="center">
+  <img width="200" height="200" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+</p>
 
 
 This is work in progress, you will discover links to useful, OSINT, Privacy & OPSEC resources, tradecraft, tools, techniques & tactics. Please feel free to explore in the meantiime. 
