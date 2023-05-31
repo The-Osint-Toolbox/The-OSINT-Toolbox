@@ -6,7 +6,7 @@ Over the years I have collected many OSINT, Privacy & OPSEC bookmarks / links wh
 <br></br>
 This is work in progress, you will discover links to useful, OSINT, Privacy & OPSEC resources, tradecraft, tools, techniques & tactics. Please feel free to explore. 
 <br></br>
-The nature of OSINT and to some extent Privacy, means resources come and go, and occasionally  some links maybe broken. Many of the resources listed rely on people maintaining them in their free time. The blogs listed will undoubtly become outdated over time as websites / platforms update and change. Feel free to DM me on Twitter if you find any broken links.
+The nature of OSINT and to some extent Privacy, means resources come and go, and occasionally  some links maybe broken. Many of the resources listed rely on people maintaining them in their free time. The blogs listed will undoubtly become outdated over time as websites / platforms update and change. Feel free to DM me on Twitter if you find any broken links or blogs that are outdated.
 <br></br>
 The links to other websites, blogs, resources & tools etc, contained within. do not represent any kind of recommendation or endorsement and I have absolutely no commercial links or affiliation to them.
 <br></br>
