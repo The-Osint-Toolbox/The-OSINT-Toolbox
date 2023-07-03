@@ -10,7 +10,7 @@ The nature of OSINT and to some extent Privacy, means resources come and go, and
 <br></br>
 The links to other websites, blogs, resources & tools etc, contained within. do not represent any kind of recommendation or endorsement and I have absolutely no commercial links or affiliation to them.
 <br></br>
-I may not have used all the links listed and I encourage you to understnad any resources or tools you use. You must understand that you may not have any control over what happens to the information you input into a website. Remember your own OPSEC!
+I would like to thank the OSINT community who have shared resources openly and freely which has enabled me to build these repositories. I may not have used all the links listed and I encourage you to understnad any resources or tools you use. You must understand that you may not have any control over what happens to the information you input into a website. Remember your own OPSEC!
 <!--
 **cqcore/cqcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
