@@ -2,6 +2,8 @@
 <p align="center">
   <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
 </p>
+Welcome to my OSINT toolbox.
+<br></br>
 Over the years I have collected many OSINT, Privacy & OPSEC bookmarks / links which I kept locally, however a combination of necessity and wanting to share, I took the decision to create these GitHub Repositories.
 <br></br>
 This is work in progress, you will discover links to useful, OSINT, Privacy & OPSEC resources, tradecraft, tools, techniques & tactics. Please feel free to explore. 
