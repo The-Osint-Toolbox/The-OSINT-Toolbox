@@ -6,7 +6,7 @@
 <br></br>
 Over the years I have collected many OSINT, Privacy & OPSEC bookmarks / links which I kept locally, however a combination of necessity and wanting to share, I took the decision to create these GitHub Repositories.
 <br></br>
-This work is fluid amd continual, you will discover links to useful, OSINT, Privacy & OPSEC resources, tradecraft, tools, techniques & tactics. 
+This work is fluid and continual, you will discover links to useful, OSINT, Privacy & OPSEC resources, tradecraft, tools, techniques & tactics. 
 <br></br>
 The nature of OSINT and to some extent Privacy, means resources come and go, and occasionally  some links maybe broken. Many of the resources listed rely on people maintaining them in their free time. The blogs listed will undoubtly become outdated over time as websites / platforms update and change. Feel free to DM me on Twitter if you find any broken links or blogs that are outdated.
 <br></br>
