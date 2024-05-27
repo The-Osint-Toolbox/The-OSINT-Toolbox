@@ -2,7 +2,7 @@
 <p align="center">
   <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
 </p>
-<p align="center">Welcome to my OSINT Toolbox.</p>
+<p align="center">Welcome to cqcore OSINT Toolbox.</p>
 <br></br>
 Over the years I have collected many OSINT, Privacy & OPSEC bookmarks / links which I kept locally, however a combination of necessity and wanting to share, I took the decision to create these GitHub Repositories.
 <br></br>
