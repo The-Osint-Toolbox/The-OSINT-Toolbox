@@ -1,6 +1,6 @@
 ### Welcome to, The-OSINT-Toolbox by cqcore.
 <p align="center">
-  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
+  <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
 </p>
 <p align="center">The-OSINT-Toolbox by cqcore.</p>
 <br></br>
