@@ -10,13 +10,13 @@ This work is fluid and continual, you will discover links to useful, OSINT, Priv
 <br></br>
 The nature of OSINT and to some extent Privacy, means resources come and go, and occasionally  some links maybe broken. Many of the resources listed rely on people maintaining them in their free time. The blogs listed will undoubtly become outdated over time as websites / platforms update and change. Feel free to DM, if you find any broken links or blogs that are outdated.
 <br></br>
-Some resources are completely free to use, others you will need to pay for however they may offer a free trial. The resources range from easy to use, to others that may need more technical knowledge, an example being some of the GitHub tools.  
+Some resources are completely free to use, others you will need to pay for however they may offer a free trial. The resources range from easy to use, to others that may need more specialist knowledge, an example being some of the GitHub tools.  
 <br></br>
 The links to other websites, blogs, resources & tools etc, contained within. do not represent any kind of recommendation or endorsement and I have absolutely no commercial links or affiliation to them.
 <br></br>
-I would like to thank the OSINT community who have shared resources openly and freely which has enabled me to build The-OSINT-Toolbox, which then enables me to share with the community. 
+Caveat, due to the sheer amount of resources listed, I have not used all them and I rely in some part on others who have. It takes a lot of my own time to maintain these GitHub repos, that I simply do not have the time to test all the resources listed. I encourage you to understand any resources or tools you use. You must understand that you may not have any control over what happens to the information you input into a resource listed or the footprint you leave behind. 
 <br></br>
-Caveat, due to the sheer amount of resources listed I have not used all them and I rely in some part on others who have. It takes a lot of my own time to maintain these GitHub repos, that I simply do not have the time to test all the resources listed. I encourage you to understand any resources or tools you use. You must understand that you may not have any control over what happens to the information you input into a resource listed or the footprint you leave behind. 
+I would like to thank the OSINT community who have shared resources openly and freely which has enabled me to build The-OSINT-Toolbox, which then enables me to share with the community. 
 <br></br>
 Always remember your own OPSEC!
 <!--
