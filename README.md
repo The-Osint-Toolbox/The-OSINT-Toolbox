@@ -19,6 +19,7 @@ Caveat, due to the sheer amount of resources listed, I have not used all them an
 I would like to thank the OSINT community who have shared resources openly and freely which has enabled me to build The-OSINT-Toolbox, which then enables me to share with the community. 
 <br></br>
 Always remember your own OPSEC!
+<br></br>
 <!--
 **cqcore/cqcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
