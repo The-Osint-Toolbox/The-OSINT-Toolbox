@@ -52,7 +52,7 @@ Quick Links
        <td><a href="https://github.com/The-Osint-Toolbox/URL-Manipulation">URL-Manipulation</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Custom-Search-Engines">Custom Search Engines</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/OSINT-Advanced-Searching">Advanced Searching</a></td>
-       <td><a href="https://github.com/The-Osint-Toolbox/OSINT-Toolbox-Peripherals">OSINT Peripherals</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/VPN-Providers">VPN Providers</a></td>
     </tr>
 </table>
 <br></br>
