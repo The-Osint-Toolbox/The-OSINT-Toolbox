@@ -20,15 +20,29 @@ I would like to thank the OSINT community who have shared resources openly and f
 <br></br>
 Always remember your own OPSEC!
 <br></br>
+Quick Links
+<br></br>
 <table>
     <tr>
-       <td><a href="https://github.com/cqcore/Telegram-OSINT">Telegram</a></td>
+       <td><a href="https://github.com/cqcore/Telegram-OSINT">Telegram OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Social-Media-OSINT">Social Media</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/OSINT-Browser-Extensions">Browser Extensions</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Website-OSINT">Website OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Data-OSINT">Data OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Geolocation-OSINT">Geo-Location OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Image-Research-OSINT">Image OSINT</a></td>
+    </tr>
+</table>
+<br></br>
+<table>
+    <tr>
+       <td><a href="https://github.com/The-Osint-Toolbox/Email-Username-OSINT">Email Username</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/YouTube-Video-OSINT">YouTube OSINT</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/WiFi-OSINT">Wifi OSINT</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/Privacy-Infosec-Tools-Resources">Privacy Infosec</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/OSINT-Practitioners">OSINT Practitioners</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/Internet-OSINT">Internet OSINT</a></td>
+       <td><a href=https://github.com/The-Osint-Toolbox/People-Search-OSINT">People OSINT</a></td>
     </tr>
 </table>
 <!--
