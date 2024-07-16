@@ -25,8 +25,8 @@ Quick Links
 <table>
     <tr>
        <td><a href="https://github.com/cqcore/Telegram-OSINT">Telegram OSINT</a></td>
-       <td><a href="https://github.com/The-Osint-Toolbox/Social-Media-OSINT">Social Media</a></td>
-       <td><a href="https://github.com/The-Osint-Toolbox/OSINT-Browser-Extensions">Browser Extensions</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/Social-Media-OSINT">Social Media OSINT</a></td>
+       <td><a href=https://github.com/The-Osint-Toolbox/People-Search-OSINT">People OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Website-OSINT">Website OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Data-OSINT">Data OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Geolocation-OSINT">Geo-Location OSINT</a></td>
@@ -36,25 +36,47 @@ Quick Links
 <br></br>
 <table>
     <tr>
-       <td><a href="https://github.com/The-Osint-Toolbox/Email-Username-OSINT">Email Username</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/Email-Username-OSINT">Email Username OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/YouTube-Video-OSINT">YouTube OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/GitHub-OSINT-Resources">GitHub Repos</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Privacy-Infosec-Tools-Resources">Privacy Infosec</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/OSINT-Practitioners">OSINT Practitioners</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Internet-OSINT">Internet OSINT</a></td>
-       <td><a href=https://github.com/The-Osint-Toolbox/People-Search-OSINT">People OSINT</a></td>
     </tr>
 </table>
 <br></br>
 <table>
     <tr>
-       <td><a href="https://github.com/The-Osint-Toolbox/Custom-Search-Engines">Custom Search</a></td>
-       <td><a href="https://github.com/The-Osint-Toolbox/OSINT-Advanced-Searching">Advanced Search</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/Search-Engines">Search Engines</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/Archive-OSINT">Archive OSINT</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/URL-Manipulation">URL-Manipulation</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/Custom-Search-Engines">Custom Search Engines</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/OSINT-Advanced-Searching">Advanced Searching</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/OSINT-Toolbox-Peripherals">OSINT Peripherals</a></td>
+    </tr>
+</table>
+<br></br>
+<table>
+    <tr>
+       <td><a href="https://github.com/The-Osint-Toolbox/Company-OSINT">Company OSINT</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/Darkweb-OSINT">Darkweb OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Telephone-OSINT">Telephone OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Privacy-Infosec-Tools-Resources">Privacy Infosec</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Fact-Checking-Verification">Fact Checking</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/WiFi-OSINT">Wifi OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/OSINT-Toolbox-Peripherals">OSINT Peripherals</a></td>
+    </tr>
+</table>
+<br></br>
+<table>
+    <tr>
+       <td><a href="https://github.com/The-Osint-Toolbox/Fitness-Leisure-OSINT">Fitness OSINT</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/Vehicle-OSINT">Vehicle OSINT</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/OSINT-Blogs-Video-Resources">OSINT Blogs & Videos</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/Browsers">Browsers</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/OSINT-Browser-Extensions">Browser Extensions</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/AI-Resources">AI Resources</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/Ancestry-Genealogy-OSINT">Ancestry OSINT</a></td>
     </tr>
 </table>
 <!--
