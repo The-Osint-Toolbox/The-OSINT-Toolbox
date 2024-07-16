@@ -38,11 +38,23 @@ Quick Links
     <tr>
        <td><a href="https://github.com/The-Osint-Toolbox/Email-Username-OSINT">Email Username</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/YouTube-Video-OSINT">YouTube OSINT</a></td>
-       <td><a href="https://github.com/The-Osint-Toolbox/WiFi-OSINT">Wifi OSINT</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/GitHub-OSINT-Resources">GitHub Repos</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Privacy-Infosec-Tools-Resources">Privacy Infosec</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/OSINT-Practitioners">OSINT Practitioners</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Internet-OSINT">Internet OSINT</a></td>
        <td><a href=https://github.com/The-Osint-Toolbox/People-Search-OSINT">People OSINT</a></td>
+    </tr>
+</table>
+<br></br>
+<table>
+    <tr>
+       <td><a href="https://github.com/The-Osint-Toolbox/Custom-Search-Engines">Custom Search</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/OSINT-Advanced-Searching">Advanced Search</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/Telephone-OSINT">Telephone OSINT</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/Privacy-Infosec-Tools-Resources">Privacy Infosec</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/Fact-Checking-Verification">Fact Checking</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/WiFi-OSINT">Wifi OSINT</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/OSINT-Toolbox-Peripherals">OSINT Peripherals</a></td>
     </tr>
 </table>
 <!--
