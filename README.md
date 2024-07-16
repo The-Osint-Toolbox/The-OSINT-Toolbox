@@ -1,3 +1,9 @@
+<style>
+  .quicklinks {
+     width:30px;
+  }
+</style>
+
 ### Welcome to, The-OSINT-Toolbox.
 <p align="center">
   <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">
@@ -20,6 +26,13 @@ I would like to thank the OSINT community who have shared resources openly and f
 <br></br>
 Always remember your own OPSEC!
 <br></br>
+<table>
+    <tr>
+       <td class="quicklinks"><a href="https://github.com/cqcore/Telegram-OSINT">Telegram</a></td>
+       <td><a href="https://github.com/cqcore/Telegram-OSINT">Telegram</a></td>
+       <td><a href="https://github.com/cqcore/Telegram-OSINT">Telegram</a></td>
+    </tr>
+</table>
 <!--
 **cqcore/cqcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
