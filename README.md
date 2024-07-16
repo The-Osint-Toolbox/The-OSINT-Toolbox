@@ -39,7 +39,7 @@ Quick Links
        <td><a href="https://github.com/The-Osint-Toolbox/Email-Username-OSINT">Email Username OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/YouTube-Video-OSINT">YouTube OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/GitHub-OSINT-Resources">GitHub Repos</a></td>
-       <td><a href="https://github.com/The-Osint-Toolbox/Privacy-Infosec-Tools-Resources">Privacy Infosec</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/OSINT-Toolbox-Peripherals">OSINT Peripherals</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/OSINT-Practitioners">OSINT Practitioners</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Internet-OSINT">Internet OSINT</a></td>
     </tr>
@@ -61,10 +61,10 @@ Quick Links
        <td><a href="https://github.com/The-Osint-Toolbox/Company-OSINT">Company OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Darkweb-OSINT">Darkweb OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Telephone-OSINT">Telephone OSINT</a></td>
-       <td><a href="https://github.com/The-Osint-Toolbox/Privacy-Infosec-Tools-Resources">Privacy Infosec</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Fact-Checking-Verification">Fact Checking</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/WiFi-OSINT">Wifi OSINT</a></td>
-       <td><a href="https://github.com/The-Osint-Toolbox/OSINT-Toolbox-Peripherals">OSINT Peripherals</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/Privacy-Infosec-Tools-Resources">Privacy Infosec</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/Privacy-Practitioners">Privacy-Practitioners</a></td>
     </tr>
 </table>
 <br></br>
@@ -78,6 +78,17 @@ Quick Links
        <td><a href="https://github.com/The-Osint-Toolbox/AI-Resources">AI Resources</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Ancestry-Genealogy-OSINT">Ancestry OSINT</a></td>
     </tr>
+</table>
+<br></br>
+<table>
+    <tr>
+      <td><a href="https://github.com/The-Osint-Toolbox/Flight-And-Marine-OSINT">Flight & Marine OSINT</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/Browser-OSINT-Privacy">Browser OSINT Privacy</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/Privacy-Opt-Out">Privacy Opt-Out</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/Privacy-Infosec-Tools-Resources">Privacy Infosec</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/Privacy-Practitioners">Privacy-Practitioners</a></td>
+    </tr>
+
 </table>
 <!--
 **cqcore/cqcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
