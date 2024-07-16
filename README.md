@@ -22,7 +22,7 @@ Always remember your own OPSEC!
 <br></br>
 <table>
     <tr>
-       <td style="width: 30px;"><a href="https://github.com/cqcore/Telegram-OSINT">Telegram</a></td>
+       <td style="width: 150px;"><a href="https://github.com/cqcore/Telegram-OSINT">Telegram</a></td>
        <td><a href="https://github.com/cqcore/Telegram-OSINT">Telegram</a></td>
        <td><a href="https://github.com/cqcore/Telegram-OSINT">Telegram</a></td>
     </tr>
