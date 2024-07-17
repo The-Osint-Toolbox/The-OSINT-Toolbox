@@ -76,7 +76,6 @@ Quick Links
     </tr>
 </table>
 <br></br>
-<br></br>
 <table>
     <tr>
        <td><a href="https://github.com/The-Osint-Toolbox/WiFi-OSINT">Wifi OSINT</a></td>
