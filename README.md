@@ -99,14 +99,10 @@ Quick Links
        <td><a href="https://github.com/The-Osint-Toolbox/VPN-Providers">VPN Providers</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Flight-And-Marine-OSINT">Flight & Marine OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Browser-OSINT-Privacy">Browser OSINT Privacy</a></td>
-    </tr>
-</table>
-<br></br>
-<table>
-    <tr>
        <td><a href="https://github.com/The-Osint-Toolbox/Privacy-Opt-Out">Privacy Opt-Out</a></td>
     </tr>
 </table>
+<br></br>
 <!--
 **cqcore/cqcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
