@@ -105,8 +105,6 @@ Quick Links
 <table>
     <tr>
        <td><a href="https://github.com/The-Osint-Toolbox/Privacy-Opt-Out">Privacy Opt-Out</a></td>
-       <td><a href="https://github.com/The-Osint-Toolbox/Privacy-Infosec-Tools-Resources">Privacy Infosec</a></td>
-       <td><a href="https://github.com/The-Osint-Toolbox/Privacy-Practitioners">Privacy-Practitioners</a></td>
     </tr>
 </table>
 <!--
