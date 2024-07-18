@@ -25,15 +25,15 @@ Quick Links
 <table>
     <tr>
        <td><a href="https://github.com/cqcore/Telegram-OSINT">Telegram OSINT</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/Data-OSINT">Data Acquisition OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Social-Media-OSINT">Social Media OSINT</a></td>
-       <td><a href=https://github.com/The-Osint-Toolbox/People-Search-OSINT">People OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Website-OSINT">Website OSINT</a></td>
     </tr>
 </table>
 <br></br>
 <table>
     <tr>
-       <td><a href="https://github.com/The-Osint-Toolbox/Data-OSINT">Data OSINT</a></td>
+       <td><a href=https://github.com/The-Osint-Toolbox/People-Search-OSINT">People OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Geolocation-OSINT">Geo-Location OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Image-Research-OSINT">Image OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Email-Username-OSINT">Email Username OSINT</a></td>
