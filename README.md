@@ -19,7 +19,7 @@ Caveat, due to the sheer amount of resources listed, I have not used all them an
 <br></br>
 I would like to thank the OSINT community who have shared resources openly and freely which has enabled me to build The-OSINT-Toolbox, which then enables me to share with the community. 
 <br></br>
-Always remember your own OPSEC!
+I always welcome the OSINT Communities support in keeping these resources up to date and relevant. One last thing always remember your own OPSEC!
 <br></br>
 Quick Links
 <br></br>
