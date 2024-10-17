@@ -34,7 +34,7 @@ Quick Links
 <br></br>
 <table>
     <tr>
-       <td><a href=https://github.com/The-Osint-Toolbox/People-Search-OSINT">People OSINT</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/People-Search-OSINT">People OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Geolocation-OSINT">Geo-Location OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Image-Research-OSINT">Image OSINT</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Email-Username-OSINT">Email Username OSINT</a></td>
