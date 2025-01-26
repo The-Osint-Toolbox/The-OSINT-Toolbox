@@ -99,7 +99,6 @@ Quick Links
     <tr>
        <td><a href="https://github.com/The-Osint-Toolbox/VPN-Providers">VPN Providers</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Flight-And-Marine-OSINT">Flight & Marine OSINT</a></td>
-       <td><a href="https://github.com/The-Osint-Toolbox/Browser-OSINT-Privacy">Browser OSINT Privacy</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Privacy-Opt-Out">Privacy Opt-Out</a></td>
     </tr>
 </table>
