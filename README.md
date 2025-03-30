@@ -88,7 +88,6 @@ Quick Links
 <br></br>
 <table>
     <tr>
-       <td><a href="https://github.com/The-Osint-Toolbox/Browsers">Browsers</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/OSINT-Browser-Extensions">Browser Extensions</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/AI-Resources">AI Resources</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/Ancestry-Genealogy-OSINT">Ancestry OSINT</a></td>
