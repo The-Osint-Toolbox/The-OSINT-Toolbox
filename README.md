@@ -44,7 +44,7 @@ Quick Links
 <table>
     <tr>
        <td><a href="https://github.com/The-Osint-Toolbox/YouTube-Video-OSINT">YouTube Video OSINT</a></td>
-       <td><a href="https://github.com/The-Osint-Toolbox/GitHub-OSINT-Resources">GitHub Repos</a></td>
+       <td><a href="https://github.com/The-Osint-Toolbox/GitHub-OSINT-Resources">GitHub OSINT Accounts</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/OSINT-Toolbox-Peripherals">OSINT Peripherals</a></td>
        <td><a href="https://github.com/The-Osint-Toolbox/OSINT-Practitioners">OSINT Practitioners</a></td>
     </tr>
